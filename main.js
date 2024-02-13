@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DaypoAnswers
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/ByFindIt152/DaypoHack/
 // @version      2024-02-13
 // @description  This scripts gives u the answer of any daypo test
 // @author       ByFindIt
